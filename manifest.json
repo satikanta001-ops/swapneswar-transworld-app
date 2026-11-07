@@ -1,0 +1,17 @@
+{
+  "id": "./?app=srt-transworld-v2",
+  "name": "Swapneswar Transworld",
+  "short_name": "SRT",
+  "description": "Swapneswar Transworld operations app",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#3D0F0C",
+  "background_color": "#3D0F0C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
